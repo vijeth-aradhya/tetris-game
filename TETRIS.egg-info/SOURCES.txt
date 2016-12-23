@@ -1,0 +1,7 @@
+README
+setup.cfg
+setup.py
+TETRIS.egg-info/PKG-INFO
+TETRIS.egg-info/SOURCES.txt
+TETRIS.egg-info/dependency_links.txt
+TETRIS.egg-info/top_level.txt
